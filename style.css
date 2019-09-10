@@ -8,6 +8,54 @@ background-color: #00FFFF;
     left: 200;
 }
 
+#link {
+    
+    position:absolute;
+    top: 80;
+    right: 30;
+    
+}
+#link1pos {
+    
+    position:absolute;
+    top: 130;
+    right: 70;
+}
+
+#link1size {
+    width: 32;
+    height: 32;
+    
+}
+
+#link2pos {
+    
+    position:absolute;
+    top: 170;
+    right: 70;
+}
+
+#link2size {
+    width: 32;
+    height: 32;
+    
+}
+
+
+#link3pos {
+    
+    position:absolute;
+    top: 210;
+    right: 70;
+}
+
+#link3size {
+    width: 32;
+    height: 32;
+    
+}
+
+
 #name {
     position: absolute;
     left: 150;
@@ -26,7 +74,7 @@ background-color: #00FFFF;
 position: absolute;
 min-width: 40%;
 min-height: 20%;
-right: 100;
+right: 150;
 top: -90;
 }
 
